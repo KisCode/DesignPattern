@@ -13,13 +13,13 @@ package com.kiscode.singleton;
  * Author:  keno
  * CreateDate: 2020/11/18 21:40
  */
-public class SingleEagerly {
-    private static SingleEagerly mInstance = new SingleEagerly();
+public class SingletonEagerly {
+    private static SingletonEagerly mInstance = new SingletonEagerly();
 
-    private SingleEagerly() {
+    private SingletonEagerly() {
     }
 
-    public static SingleEagerly getInstance() {
+    public static SingletonEagerly getInstance() {
         return mInstance;
     }
 }
