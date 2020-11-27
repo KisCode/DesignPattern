@@ -7,7 +7,7 @@
 
 ### 关键代码
 - 被代理类和代理类实现相同的接口，代理持有一个被代理类的引用，在其所实现的接口方法中调用被代理类中对应的接口方法执行，从而实现代理的作用。
- [代理模式UML](https://github.com/KisCode/DesignPattern/blob/master/imgage/Proxy.png)
+ ![代理模式UML](https://github.com/KisCode/DesignPattern/blob/master/imgage/Proxy.png)
 
 
 ### 应用实例 
