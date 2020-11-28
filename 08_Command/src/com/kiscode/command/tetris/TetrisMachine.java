@@ -1,8 +1,7 @@
 package com.kiscode.command.tetris;
 
 /**** 
- * Description: 俄罗斯方块具体实现类
- * 命令模式中的 Receiver角色
+ * Description: Receiver角色:俄罗斯方块具体实现类
  * Author:  keno
  * CreateDate: 2020/11/28 10:37
  */
