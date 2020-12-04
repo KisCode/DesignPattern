@@ -1,7 +1,7 @@
 package com.kiscode.singleton;
 
 /****
- * Description:单例模式（急切模式） 又叫 饱汉模式
+ * Description:单例模式（急切模式） 又叫 饿汉模式
  *
  * 1. 私有化构造函数
  * 2. 声明静态类对象 并初始化实例

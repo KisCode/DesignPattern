@@ -6,6 +6,7 @@ package com.kiscode.singleton;
  * 1. 私有化构造函数
  * 2. 声明静态类对象
  * 3. 公共静态方法获取类实例，当实例不为空则通过私有构造函数初始化
+ * 缺点：线程不安全；
  * Author:  keno
  * CreateDate: 2020/11/18 21:29
  */
