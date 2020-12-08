@@ -1,5 +1,5 @@
 package com.kiscode.adapter.clz;
 
-public interface Voltage5VInterface {
+public interface IVoltage5V {
     int output5V();
 }

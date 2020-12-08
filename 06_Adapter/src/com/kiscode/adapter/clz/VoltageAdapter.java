@@ -1,6 +1,6 @@
 package com.kiscode.adapter.clz;
 
-public class VoltageAdapter extends Voltage220V implements Voltage5VInterface {
+public class VoltageAdapter extends Voltage220V implements IVoltage5V {
 
     @Override
     public int output5V() {
