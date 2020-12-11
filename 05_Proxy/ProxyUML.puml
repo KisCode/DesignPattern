@@ -1,0 +1,29 @@
+@startuml
+title Proxy-代理模式
+
+skinparam packageStyle rect
+skinparam roundcorner 18  //边框圆角
+'skinparam backgroundColor #3C3C3C
+
+
+
+namespace com.kiscode.proxy #eeeeee{
+    interface Subject{
+        void request()
+    }
+
+    class ProxySubject{
+        +void request()
+    }
+    class RealSubject{
+        +void request()
+    }
+    Subject <|.. ProxySubject
+    Subject <|.. RealSubject
+    RealSubject <-- ProxySubject :使用
+
+}
+
+com.kiscode.proxy.Subject <-- Client
+
+@enduml
