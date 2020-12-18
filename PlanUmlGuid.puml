@@ -1,0 +1,12 @@
+@startuml
+
+'https://blog.csdn.net/junhuahouse/article/details/80767632
+title Plan UML使用模板
+
+ClassA <-- ClassB:关联
+ClassA <.. ClassB : 依赖
+ClassA o-- ClassB:聚集
+ClassA <|-- ClassB:泛化(继承)
+ClassA <|.. ClassB:实现
+
+@enduml

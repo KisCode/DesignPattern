@@ -9,8 +9,7 @@
 定义角色
 1. Builder建造者，创建和提供Product实例；
 2. Product 被创建实例类型,创建带有一个Builder参数构造函数，通过Builder对象构建Product实例；**构造函数依赖注入**
-
- ![建造模式UML]()
+ ![建造模式UML](https://github.com/KisCode/DesignPattern/blob/master/imgage/Builder.jpg)
 
 ### 应用实例 
 - Android中通过AlertDialog.Builder创建Dialog;
