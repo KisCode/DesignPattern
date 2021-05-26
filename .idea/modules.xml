@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/09_Builder/09_Builder.iml" filepath="$PROJECT_DIR$/09_Builder/09_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_ProtoType/10_ProtoType.iml" filepath="$PROJECT_DIR$/10_ProtoType/10_ProtoType.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Flyweight/11_Flyweight.iml" filepath="$PROJECT_DIR$/11_Flyweight/11_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ChainOfResponsibility/12_ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/12_ChainOfResponsibility/12_ChainOfResponsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
     </modules>
   </component>
