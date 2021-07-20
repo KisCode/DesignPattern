@@ -1,7 +1,7 @@
 package com.kiscode.responsiblitychain.leave;
 
 /**
- * Description:
+ * Description:经理 可审批3天以内假期
  * Author: keno
  * Date : 2021/5/26 11:30
  **/
