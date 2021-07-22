@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_Singleton/01_Singleton.iml" filepath="$PROJECT_DIR$/01_Singleton/01_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Factory/02_Factory.iml" filepath="$PROJECT_DIR$/02_Factory/02_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_AbstractFactory/03_AbstractFactory.iml" filepath="$PROJECT_DIR$/03_AbstractFactory/03_AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Facade/04_Facade.iml" filepath="$PROJECT_DIR$/04_Facade/04_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_Proxy/05_Proxy.iml" filepath="$PROJECT_DIR$/05_Proxy/05_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_Adapter/06_Adapter.iml" filepath="$PROJECT_DIR$/06_Adapter/06_Adapter.iml" />
@@ -11,7 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/09_Builder/09_Builder.iml" filepath="$PROJECT_DIR$/09_Builder/09_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_ProtoType/10_ProtoType.iml" filepath="$PROJECT_DIR$/10_ProtoType/10_ProtoType.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Flyweight/11_Flyweight.iml" filepath="$PROJECT_DIR$/11_Flyweight/11_Flyweight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_ChainOfResponsibility/12_ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/12_ChainOfResponsibility/12_ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern.iml" />
     </modules>
   </component>
 </project>
