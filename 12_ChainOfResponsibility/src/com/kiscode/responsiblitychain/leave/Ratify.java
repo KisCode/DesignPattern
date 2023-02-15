@@ -1,7 +1,7 @@
 package com.kiscode.responsiblitychain.leave;
 
 /**
- * Description:
+ * Description: 抽象处理者角色（Hnadler）
  * Author: keno
  * Date : 2021/5/26 11:22
  **/
