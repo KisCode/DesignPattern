@@ -1,7 +1,7 @@
 package com.kiscode.command.remote;
 
 /****
- * Description:
+ * Description: 遥控器打开电视、灯泡示例命令模式执行关闭
  * Author:  keno
  * CreateDate: 2020/11/28 11:45
  */
@@ -10,8 +10,6 @@ class RemoteControlLoader {
         //创建Receiver对象
         Tv tv = new Tv();
         Light light = new Light();
-        AirConditioner airConditioner = new AirConditioner();
-
         //创建命令
         Command tvOnCommand = new TvOnCommand(tv);
         Command tvOffCommand = new TvOffCommand(tv);

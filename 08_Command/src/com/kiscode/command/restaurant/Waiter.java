@@ -1,7 +1,7 @@
 package com.kiscode.command.restaurant;
 
 /****
- * Description: Invoker角色：餐厅服务员
+ * Description: 命令触发者Invoker角色：餐厅服务员
  * Author:  keno
  * CreateDate: 2020/11/28 11:14
  */
