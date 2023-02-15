@@ -1,7 +1,7 @@
 package com.kiscode.command.restaurant;
 
 /****
- * Description:
+ * Description:订单命令
  * Author:  keno
  * CreateDate: 2020/11/28 11:20
  */

@@ -7,6 +7,7 @@ package com.kiscode.command.restaurant;
  */
 class Cook {
     public void cooking(String name) {
+         //具体实现
         System.out.println("Cooking " + name);
     }
 }

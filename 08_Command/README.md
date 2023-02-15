@@ -12,7 +12,7 @@
 定义三个角色
 1. Receiver 真正的命令执行对象 ；
 2. Command 封装了接收者和一个动作：持有Receiver对象，调用Receiver对应方法执行；
-3. Invoker 使用命令对象的入口；
+3. Invoker 使用命令对象的入口；即命令触发者，持有Command对象引用触发命令，而不向Receiver直接发送请求
  ![命令模式UML](https://github.com/KisCode/DesignPattern/blob/master/imgage/Command.jpg)
 
 

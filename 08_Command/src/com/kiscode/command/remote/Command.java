@@ -1,7 +1,7 @@
 package com.kiscode.command.remote;
 
 /****
- * Description:
+ * Description: Command命令接口
  * Author:  keno
  * CreateDate: 2020/11/28 11:39
  */
